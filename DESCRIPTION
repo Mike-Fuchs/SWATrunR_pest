@@ -1,4 +1,4 @@
-Package: SWATrunR_pest
+Package: SWATrunRpest
 Type: Package
 Title: Running SWAT2012 and SWAT+ Projects in R
 Version: 0.9.4
